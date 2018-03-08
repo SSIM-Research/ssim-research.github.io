@@ -21,6 +21,8 @@ permalink: "/people/"
 	
 	<div class="row">
 		{% include member.html photo="../images/people/wanli_ouyang.jpeg" homepage="https://wlouyang.github.io/" name="Wanli Ouyang" title="Senior Lecturer" %}
+
+		{% include member.html photo="../images/people/dong_xu.jpeg" homepage="https://sydney.edu.au/engineering/people/dong.xu.php" name="Dong Xu" title="Professor" %}
 	</div>
 
 
