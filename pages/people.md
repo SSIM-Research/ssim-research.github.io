@@ -23,6 +23,10 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/wanli_ouyang.jpeg" homepage="https://wlouyang.github.io/" name="Wanli Ouyang" title="Senior Lecturer" %}
 
 		{% include member.html photo="../images/people/dong_xu.jpeg" homepage="https://sydney.edu.au/engineering/people/dong.xu.php" name="Dong Xu" title="Professor" %}
+
+		{% include member.html photo="../images/people/zhiyong_wang.png" homepage="https://sydney.edu.au/engineering/people/zhiyong.wang.php" name="Zhiyong Wang" title="Associate Professor" %}
+
+		{% include member.html photo="../images/people/luping_zhou.png" homepage="https://sydney.edu.au/engineering/people/luping.zhou.php" name="Luping Zhou" title="Senior Lecturer" %}
 	</div>
 
 
